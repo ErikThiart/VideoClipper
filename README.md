@@ -19,8 +19,8 @@ A simple command-line tool to create multiple clips from a video file using time
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/erikthiart/video-clipper.git
-cd video-clipper
+git clone https://github.com/erikthiart/VideoClipper.git
+cd VideoClipper
 ```
 
 2. Create and activate a virtual environment:
