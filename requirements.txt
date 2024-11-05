@@ -1,0 +1,2 @@
+tqdm>=4.66.6
+ffmpeg-python>=0.2.0
